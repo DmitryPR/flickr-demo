@@ -1,5 +1,9 @@
 Flickr app is a demonstration how to use Flickr API to query different pictures.
 
+Please note that in order this to work you would need Flickr API key and secret. 
+
+More on this: https://github.com/devedup/FlickrKit
+
 ### Basic install:
 
 just run ‘pod install’ and open the *.xcworkspace generated
